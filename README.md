@@ -18,6 +18,7 @@ This is a simple rice cooker application written in C#. It provides basic functi
 
 ## Linter for C#
 https://github.com/hei-school/cc-d4-rice-cooker-ci-MiRandria/blob/feature/C%23/stylecop.json
+
 For linting C# code, you can use a linter such as StyleCop.Analyzers. Here's how you can set it up:
 
 1. Add the StyleCop.Analyzers NuGet package to your project. You can do this using the Package Manager Console:
