@@ -1,0 +1,15 @@
+{
+    "$schema": "https://raw.githubusercontent.com/DotNetAnalyzers/StyleCopAnalyzers/master/StyleCop.Analyzers/StyleCop.Analyzers/Settings/stylecop.schema.json",
+    "settings": {
+      "orderingRules": {
+        "usingDirectivesPlacement": "outsideNamespace",
+        "usingDirectivesSortingMode": "systemFirst",
+        "propertyGrouping": "ReadOnlyVariablesFirst",
+        "sa1200_elementsMustAppearInTheCorrectOrder": "false"
+      },
+      "maintainabilityRules": {
+        "sa1413_maximumLineLength": 120
+      }
+    }
+  }
+  
