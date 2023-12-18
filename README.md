@@ -18,6 +18,7 @@ This is a simple rice cooker application written in Python. It provides basic fu
 
 ## Linter for Python
 https://github.com/hei-school/cc-d4-rice-cooker-ci-MiRandria/blob/feature/python/flake8.ini
+
 For linting Python code, you can use a linter such as Flake8. Here's how you can set it up:
 
 1. Install Flake8 using pip, the Python package manager:
